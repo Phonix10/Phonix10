@@ -1,7 +1,7 @@
 ﻿
 
 <h1 align="center">Hi 👋, I'm UDIT RANJAN</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">Motivated and detail-oriented Information Technology undergraduate with a strong foundation in backend development, data analysis, and software engineering principles. Skilled in Java, Python, and Spring Boot with hands-on experience building scalable APIs and full-stack systems. Completed multiple real-world projects involving emotion recognition, real-time engagement tools, and programming contest platforms. Adept at working in team environments, employing Test-Driven Development (TDD), and following SOLID design principles for high maintainability. Passionate about learning emerging technologies and delivering robust, user-focused solutions. Currently seeking challenging opportunities to apply and expand my technical and analytical skills.</h3>
 
 
 
